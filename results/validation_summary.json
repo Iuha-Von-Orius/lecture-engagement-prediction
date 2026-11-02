@@ -1,0 +1,22 @@
+{
+  "samples": 11548,
+  "features": 41,
+  "positive_fraction": 0.15621752684447524,
+  "train_samples": 9238,
+  "test_samples": 2310,
+  "changed_regression_targets": 1306,
+  "preprocessing_fitted_before_split": true,
+  "python_version": "3.12.0",
+  "dependencies": {
+    "numpy": "2.5.4",
+    "pandas": "3.1.0",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2"
+  },
+  "regression": {
+    "model": "Ridge",
+    "evaluation": "in_sample_clipped_target",
+    "r2": 0.5627669497689786
+  },
+  "historical_scores_overwritten": false
+}

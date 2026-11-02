@@ -1,0 +1,4 @@
+model,train_f1,test_f1,train_balanced_accuracy,test_balanced_accuracy,test_roc_auc
+Random Forest,0.7394,0.6891,0.7991,0.7765,0.9142
+Gradient Boosting,0.7487,0.7013,0.8153,0.7955,0.9134
+Logistic Regression,0.6471,0.6799,0.7544,0.7744,0.9008

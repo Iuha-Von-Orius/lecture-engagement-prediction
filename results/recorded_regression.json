@@ -1,0 +1,5 @@
+{
+  "model": "Ridge",
+  "evaluation": "in_sample_clipped_target",
+  "r2": 0.5627669497689785
+}
